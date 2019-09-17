@@ -2,7 +2,15 @@
   "courses": [
       {
         "name": "ExampleCourse2",
-        "lastUpdated": "14:58 ET 15-09-2019"
+        "lastUpdated": "14:59 ET 15-09-2019"
+      },
+      {
+        "name": "ExampleCourse3",
+        "lastUpdated": "14:59 ET 15-09-2019"
+      },
+      {
+        "name": "ExampleCourse4",
+        "lastUpdated": "14:59 ET 15-09-2019"
       }
   ]
 }
