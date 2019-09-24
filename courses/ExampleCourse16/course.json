@@ -40,9 +40,7 @@
           {
             "moduleType": "numberChallenge",
             "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": [
-              "18"
-            ],
+            "correctAnswer": "18",
             "toleranceMax": "22",
             "toleranceMin": "15"
           },
@@ -110,9 +108,7 @@
           {
             "moduleType": "numberChallenge",
             "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": [
-              "18"
-            ],
+            "correctAnswer": "18",
             "toleranceMax": "22",
             "toleranceMin": "15"
           },
@@ -159,9 +155,7 @@
           {
             "moduleType": "numberChallenge",
             "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": [
-              "18"
-            ],
+            "correctAnswer": "18",
             "toleranceMax": "22",
             "toleranceMin": "15"
           },
@@ -208,9 +202,7 @@
           {
             "moduleType": "numberChallenge",
             "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": [
-              "18"
-            ],
+            "correctAnswer": "18",
             "toleranceMax": "22",
             "toleranceMin": "15"
           },
