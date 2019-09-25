@@ -50,7 +50,7 @@
           }
         ]
       },{
-        "name": "Chapter1",
+        "name": "Chapter1 has an even longer name to deal with",
         "modules": [
           {
             "moduleType": "text",
