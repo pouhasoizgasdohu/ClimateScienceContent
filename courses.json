@@ -1,7 +1,7 @@
 {
   "courses": [
       {
-        "name": "ExampleCourse16",
+        "name": "Detail0 of this course has lots of chapters",
         "lastUpdated": "18:00 ET 15-09-2019"
       },
       {
@@ -29,7 +29,7 @@
         "lastUpdated": "16:16 ET 15-09-2019"
       },
       {
-        "name": "ExampleCourse23",
+        "name": "This course has a longer name to stresstest formatting",
         "lastUpdated": "16:16 ET 15-09-2019"
       }
   ]
