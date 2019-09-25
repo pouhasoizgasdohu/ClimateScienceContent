@@ -1,8 +1,8 @@
 {
-  "name": "ExampleCourse22",
+  "name": "Blablabla2",
   "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
-  "category": "Introduction to Climate Change",
-  "categoryIndex": 3,
+  "category": "Oceans",
+  "categoryIndex": 2,
   "chapters": [
     [
       {
@@ -51,7 +51,133 @@
         ]
       },
       {
-        "name": "Chapter2",
+        "name": "Chapter3",
+        "modules": [
+          {
+            "moduleType": "image",
+            "content": "kangaroo.png"
+          },
+          {
+            "moduleType": "video",
+            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
+          },
+          {
+            "moduleType": "text",
+            "content": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+          },
+          {
+            "moduleType": "text",
+            "content": "or lipsum as it is sometimes known, is dummy n the 15th century who is thought to have scrambled parts of Cicero'sm for use in a type specimen"
+          }
+        ]
+      },
+      {
+        "name": "Chapter4",
+        "modules": [
+          {
+            "moduleType": "image",
+            "content": "kangaroo.png"
+          },
+          {
+            "moduleType": "video",
+            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
+          },
+          {
+            "moduleType": "text",
+            "content": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+          },
+          {
+            "moduleType": "text",
+            "content": "or lipsum as it is sometimes known, is dummy n the 15th century who is thought to have scrambled parts of Cicero'sm for use in a type specimen"
+          }
+        ]
+      },
+      {
+        "name": "Chapter5",
+        "modules": [
+          {
+            "moduleType": "image",
+            "content": "kangaroo.png"
+          },
+          {
+            "moduleType": "video",
+            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
+          },
+          {
+            "moduleType": "text",
+            "content": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+          },
+          {
+            "moduleType": "text",
+            "content": "or lipsum as it is sometimes known, is dummy n the 15th century who is thought to have scrambled parts of Cicero'sm for use in a type specimen"
+          }
+        ]
+      },
+      {
+        "name": "Chapter6",
+        "modules": [
+          {
+            "moduleType": "image",
+            "content": "kangaroo.png"
+          },
+          {
+            "moduleType": "video",
+            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
+          },
+          {
+            "moduleType": "text",
+            "content": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+          },
+          {
+            "moduleType": "text",
+            "content": "or lipsum as it is sometimes known, is dummy n the 15th century who is thought to have scrambled parts of Cicero'sm for use in a type specimen"
+          }
+        ]
+      },
+      {
+        "name": "Chapter7",
+        "modules": [
+          {
+            "moduleType": "image",
+            "content": "kangaroo.png"
+          },
+          {
+            "moduleType": "video",
+            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
+          },
+          {
+            "moduleType": "text",
+            "content": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+          },
+          {
+            "moduleType": "text",
+            "content": "or lipsum as it is sometimes known, is dummy n the 15th century who is thought to have scrambled parts of Cicero'sm for use in a type specimen"
+          }
+        ]
+      },
+      {
+        "name": "Chapter8",
+        "modules": [
+          {
+            "moduleType": "image",
+            "content": "kangaroo.png"
+          },
+          {
+            "moduleType": "video",
+            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
+          },
+          {
+            "moduleType": "text",
+            "content": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+          },
+          {
+            "moduleType": "text",
+            "content": "or lipsum as it is sometimes known, is dummy n the 15th century who is thought to have scrambled parts of Cicero'sm for use in a type specimen"
+          }
+        ]
+      },
+      {
+        "name": "Chapter9",
         "modules": [
           {
             "moduleType": "image",
