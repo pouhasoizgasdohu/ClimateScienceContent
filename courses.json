@@ -2,42 +2,42 @@
   "courses": [
     {
       "name": "Many Chapters in Detail0",
-      "lastUpdated": "16:56 ET 15-09-2019"
+      "lastUpdated": "16:57 ET 15-09-2019"
     },
     {
       "name": "Long Course Name to stresstest your code",
+      "lastUpdated": "16:57 ET 15-09-2019"
+    },
+    {
+      "name": "Empty Course 1",
       "lastUpdated": "16:56 ET 15-09-2019"
     },
     {
-      "name": "ExampleCourse18",
+      "name": "Empty Course 2",
       "lastUpdated": "16:56 ET 15-09-2019"
     },
     {
-      "name": "ExampleCourse19",
+      "name": "Empty Course 3",
       "lastUpdated": "16:56 ET 15-09-2019"
     },
     {
-      "name": "ExampleCourse20",
+      "name": "Empty Course 4",
       "lastUpdated": "16:56 ET 15-09-2019"
     },
     {
-      "name": "ExampleCourse21",
+      "name": "Empty Course 5",
       "lastUpdated": "16:56 ET 15-09-2019"
     },
     {
-      "name": "ExampleCourse22",
+      "name": "Empty Course 6",
       "lastUpdated": "16:56 ET 15-09-2019"
     },
     {
-      "name": "ExampleCourse23",
+      "name": "Empty Course 7",
       "lastUpdated": "16:56 ET 15-09-2019"
     },
     {
-      "name": "Blablabla",
-      "lastUpdated": "16:56 ET 15-09-2019"
-    },
-    {
-      "name": "Blablabla2",
+      "name": "Empty Course 8",
       "lastUpdated": "16:56 ET 15-09-2019"
     }
   ]
