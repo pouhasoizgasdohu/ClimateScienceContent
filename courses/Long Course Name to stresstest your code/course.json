@@ -1,11 +1,13 @@
 {
+  "courseId": "C2",
   "name": "Long Course Name to stresstest your code",
   "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
   "category": "Introduction to Climate Change",
-  "categoryIndex": 1,
+  "categoryIndex": 0,
   "chapters": [
     [
       {
+  "chapterId": "C2-Det0-1",
         "name": "Chapter1",
         "modules": [
           {
@@ -51,6 +53,7 @@
         ]
       },
       {
+  "chapterId": "C2-Det0-2",
         "name": "Chapter2",
         "modules": [
           {
@@ -74,6 +77,7 @@
     ],
     [
       {
+  "chapterId": "C2-Det1-1",
         "name": "Chapter1",
         "modules": [
           {
@@ -121,6 +125,7 @@
     ],
     [
       {
+  "chapterId": "C2-Det2-1",
         "name": "Chapter1",
         "modules": [
           {
@@ -168,6 +173,7 @@
     ],
     [
       {
+  "chapterId": "C2-Det3-1",
         "name": "Chapter1",
         "modules": [
           {

@@ -1,44 +1,44 @@
 {
   "courses": [
-      {
-        "name": "Many Chapters in Detail0",
-        "lastUpdated": "16:56 ET 15-09-2019"
-      },
-      {
-        "name": "Long Course Name to stresstest your code",
-        "lastUpdated": "16:56 ET 15-09-2019"
-      },
-      {
-        "name": "ExampleCourse18",
-        "lastUpdated": "16:56 ET 15-09-2019"
-      },
-      {
-        "name": "ExampleCourse19",
-        "lastUpdated": "16:56 ET 15-09-2019"
-      },
-      {
-        "name": "ExampleCourse20",
-        "lastUpdated": "16:56 ET 15-09-2019"
-      },
-      {
-        "name": "ExampleCourse21",
-        "lastUpdated": "16:56 ET 15-09-2019"
-      },
-      {
-        "name": "ExampleCourse22",
-        "lastUpdated": "16:56 ET 15-09-2019"
-      },
-      {
-        "name": "ExampleCourse23",
-        "lastUpdated": "16:56 ET 15-09-2019"
-      },
-      {
-        "name": "Blablabla",
-        "lastUpdated": "16:56 ET 15-09-2019"
-      },
-      {
-        "name": "Blablabla2",
-        "lastUpdated": "16:56 ET 15-09-2019"
-      }
+    {
+      "name": "Many Chapters in Detail0",
+      "lastUpdated": "16:56 ET 15-09-2019"
+    },
+    {
+      "name": "Long Course Name to stresstest your code",
+      "lastUpdated": "16:56 ET 15-09-2019"
+    },
+    {
+      "name": "ExampleCourse18",
+      "lastUpdated": "16:56 ET 15-09-2019"
+    },
+    {
+      "name": "ExampleCourse19",
+      "lastUpdated": "16:56 ET 15-09-2019"
+    },
+    {
+      "name": "ExampleCourse20",
+      "lastUpdated": "16:56 ET 15-09-2019"
+    },
+    {
+      "name": "ExampleCourse21",
+      "lastUpdated": "16:56 ET 15-09-2019"
+    },
+    {
+      "name": "ExampleCourse22",
+      "lastUpdated": "16:56 ET 15-09-2019"
+    },
+    {
+      "name": "ExampleCourse23",
+      "lastUpdated": "16:56 ET 15-09-2019"
+    },
+    {
+      "name": "Blablabla",
+      "lastUpdated": "16:56 ET 15-09-2019"
+    },
+    {
+      "name": "Blablabla2",
+      "lastUpdated": "16:56 ET 15-09-2019"
+    }
   ]
 }

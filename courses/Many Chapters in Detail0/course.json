@@ -1,4 +1,5 @@
 {
+  "courseId": "C1",
   "name": "Many Chapters in Detail0",
   "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
   "category": "Forests",
@@ -6,6 +7,7 @@
   "chapters": [
     [
       {
+        "chapterId": "C1-Det0-1",
         "name": "Chapter1",
         "modules": [
           {
@@ -51,6 +53,29 @@
         ]
       },
       {
+        "chapterId": "C1-Det0-2",
+        "name": "Chapter2",
+        "modules": [
+          {
+            "moduleType": "image",
+            "content": "kangaroo.png"
+          },
+          {
+            "moduleType": "video",
+            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
+          },
+          {
+            "moduleType": "text",
+            "content": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+          },
+          {
+            "moduleType": "text",
+            "content": "or lipsum as it is sometimes known, is dummy n the 15th century who is thought to have scrambled parts of Cicero'sm for use in a type specimen"
+          }
+        ]
+      },
+      {
+        "chapterId": "C1-Det0-3",
         "name": "Chapter3",
         "modules": [
           {
@@ -72,6 +97,7 @@
         ]
       },
       {
+        "chapterId": "C1-Det0-4",
         "name": "Chapter4",
         "modules": [
           {
@@ -93,6 +119,7 @@
         ]
       },
       {
+  "chapterId": "C1-Det0-5",
         "name": "Chapter5",
         "modules": [
           {
@@ -114,6 +141,7 @@
         ]
       },
       {
+  "chapterId": "C1-Det0-6",
         "name": "Chapter6",
         "modules": [
           {
@@ -135,6 +163,7 @@
         ]
       },
       {
+  "chapterId": "C1-Det0-7",
         "name": "Chapter7",
         "modules": [
           {
@@ -156,6 +185,7 @@
         ]
       },
       {
+  "chapterId": "C1-Det0-8",
         "name": "Chapter8",
         "modules": [
           {
@@ -175,31 +205,11 @@
             "content": "or lipsum as it is sometimes known, is dummy n the 15th century who is thought to have scrambled parts of Cicero'sm for use in a type specimen"
           }
         ]
-      },
-      {
-        "name": "Chapter9",
-        "modules": [
-          {
-            "moduleType": "image",
-            "content": "kangaroo.png"
-          },
-          {
-            "moduleType": "video",
-            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
-          },
-          {
-            "moduleType": "text",
-            "content": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
-          },
-          {
-            "moduleType": "text",
-            "content": "or lipsum as it is sometimes known, is dummy n the 15th century who is thought to have scrambled parts of Cicero'sm for use in a type specimen"
-          }
-        ]
       }
     ],
     [
       {
+  "chapterId": "C1-Det1-1",
         "name": "Chapter1",
         "modules": [
           {
@@ -247,6 +257,7 @@
     ],
     [
       {
+  "chapterId": "C1-Det2-1",
         "name": "Chapter1",
         "modules": [
           {
@@ -294,6 +305,7 @@
     ],
     [
       {
+  "chapterId": "C1-Det3-1",
         "name": "Chapter1",
         "modules": [
           {
