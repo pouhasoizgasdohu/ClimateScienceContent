@@ -71,7 +71,6 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -152,7 +151,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -233,7 +232,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -340,7 +339,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -421,7 +420,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -502,7 +501,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -583,7 +582,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -664,7 +663,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -771,7 +770,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -852,7 +851,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -933,7 +932,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1014,7 +1013,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1095,7 +1094,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1176,7 +1175,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1257,7 +1256,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1364,7 +1363,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1445,7 +1444,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1526,7 +1525,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1607,7 +1606,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1688,7 +1687,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1769,7 +1768,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1850,7 +1849,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1931,7 +1930,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -2012,7 +2011,7 @@
           {
             "moduleType": "dragDropChallenge",
             "question": "Drop things where you think they belong to best.",
-            // number describes index in options list
+
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -2055,7 +2054,6 @@
     ]
   ],
   "finalQuiz": [
-    // first index is LOD
     [
       {
         "moduleType": "numberChallenge",
@@ -2076,7 +2074,7 @@
       {
         "moduleType": "dragDropChallenge",
         "question": "Drop things where you think they belong to best.",
-        // number describes index in options list
+
         "categories": [
           {
             "name": "Amazon Rainforest",
@@ -2135,7 +2133,7 @@
       {
         "moduleType": "dragDropChallenge",
         "question": "Drop things where you think they belong to best.",
-        // number describes index in options list
+
         "categories": [
           {
             "name": "Amazon Rainforest",
@@ -2194,7 +2192,7 @@
       {
         "moduleType": "dragDropChallenge",
         "question": "Drop things where you think they belong to best.",
-        // number describes index in options list
+
         "categories": [
           {
             "name": "Amazon Rainforest",
@@ -2253,7 +2251,7 @@
       {
         "moduleType": "dragDropChallenge",
         "question": "Drop things where you think they belong to best.",
-        // number describes index in options list
+
         "categories": [
           {
             "name": "Amazon Rainforest",
