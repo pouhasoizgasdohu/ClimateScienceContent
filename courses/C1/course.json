@@ -70,41 +70,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -150,41 +159,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -230,41 +248,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -336,41 +363,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -416,41 +452,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -496,41 +541,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -576,41 +630,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -656,41 +719,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -762,41 +834,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -842,41 +923,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -922,41 +1012,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1002,41 +1101,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1082,41 +1190,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1162,41 +1279,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1242,41 +1368,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1348,41 +1483,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1428,41 +1572,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1508,41 +1661,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1588,41 +1750,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1668,41 +1839,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1748,41 +1928,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1828,41 +2017,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1908,41 +2106,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -1988,41 +2195,50 @@
             "categories": [
               {
                 "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg"
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
               },
               {
                 "name": "On ocean",
-                "picture": "quiz0_category1.jpg"
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
               },
               {
                 "name": "In Ocean",
-                "picture": "quiz0_category2.jpg"
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
               },
               {
                 "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg"
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
               }
             ],
             "options": [
               {
                 "name": "Tree",
-                "picture": "quiz0_option0.jpg"
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
               },
               {
                 "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg"
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
               },
               {
                 "name": "Dory",
-                "picture": "quiz0_option1.jpg"
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
               },
               {
                 "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
               },
               {
                 "name": "Blablab",
-                "picture": "quiz0_option3.jpg"
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
               }
             ]
           }
@@ -2050,41 +2266,50 @@
         "categories": [
           {
             "name": "Amazon Rainforest",
-            "picture": "quiz0_category0.jpg"
+            "picture": "quiz0_category0.jpg",
+            "correctAnswerId": "0"
           },
           {
             "name": "On ocean",
-            "picture": "quiz0_category1.jpg"
+            "picture": "quiz0_category1.jpg",
+            "correctAnswerId": "1"
           },
           {
             "name": "In Ocean",
-            "picture": "quiz0_category2.jpg"
+            "picture": "quiz0_category2.jpg",
+            "correctAnswerId": "2"
           },
           {
             "name": "Sahara Desert (blablabla for longer name)",
-            "picture": "quiz0_category3.jpg"
+            "picture": "quiz0_category3.jpg",
+            "correctAnswerId": "4"
           }
         ],
         "options": [
           {
             "name": "Tree",
-            "picture": "quiz0_option0.jpg"
+            "picture": "quiz0_option0.jpg",
+            "optionId": "0"
           },
           {
             "name": "Super long name of option",
-            "picture": "quiz0_option2.jpg"
+            "picture": "quiz0_option2.jpg",
+            "optionId": "1"
           },
           {
             "name": "Dory",
-            "picture": "quiz0_option1.jpg"
+            "picture": "quiz0_option1.jpg",
+            "optionId": "2"
           },
           {
             "name": "Corn Flakes",
-            "picture": "quiz0_option3.jpg"
+            "picture": "quiz0_option3.jpg",
+            "optionId": "3"
           },
           {
             "name": "Blablab",
-            "picture": "quiz0_option3.jpg"
+            "picture": "quiz0_option3.jpg",
+            "optionId": "4"
           }
         ]
       }
@@ -2108,41 +2333,50 @@
         "categories": [
           {
             "name": "Amazon Rainforest",
-            "picture": "quiz0_category0.jpg"
+            "picture": "quiz0_category0.jpg",
+            "correctAnswerId": "0"
           },
           {
             "name": "On ocean",
-            "picture": "quiz0_category1.jpg"
+            "picture": "quiz0_category1.jpg",
+            "correctAnswerId": "1"
           },
           {
             "name": "In Ocean",
-            "picture": "quiz0_category2.jpg"
+            "picture": "quiz0_category2.jpg",
+            "correctAnswerId": "2"
           },
           {
             "name": "Sahara Desert (blablabla for longer name)",
-            "picture": "quiz0_category3.jpg"
+            "picture": "quiz0_category3.jpg",
+            "correctAnswerId": "4"
           }
         ],
         "options": [
           {
             "name": "Tree",
-            "picture": "quiz0_option0.jpg"
+            "picture": "quiz0_option0.jpg",
+            "optionId": "0"
           },
           {
             "name": "Super long name of option",
-            "picture": "quiz0_option2.jpg"
+            "picture": "quiz0_option2.jpg",
+            "optionId": "1"
           },
           {
             "name": "Dory",
-            "picture": "quiz0_option1.jpg"
+            "picture": "quiz0_option1.jpg",
+            "optionId": "2"
           },
           {
             "name": "Corn Flakes",
-            "picture": "quiz0_option3.jpg"
+            "picture": "quiz0_option3.jpg",
+            "optionId": "3"
           },
           {
             "name": "Blablab",
-            "picture": "quiz0_option3.jpg"
+            "picture": "quiz0_option3.jpg",
+            "optionId": "4"
           }
         ]
       }
@@ -2166,41 +2400,50 @@
         "categories": [
           {
             "name": "Amazon Rainforest",
-            "picture": "quiz0_category0.jpg"
+            "picture": "quiz0_category0.jpg",
+            "correctAnswerId": "0"
           },
           {
             "name": "On ocean",
-            "picture": "quiz0_category1.jpg"
+            "picture": "quiz0_category1.jpg",
+            "correctAnswerId": "1"
           },
           {
             "name": "In Ocean",
-            "picture": "quiz0_category2.jpg"
+            "picture": "quiz0_category2.jpg",
+            "correctAnswerId": "2"
           },
           {
             "name": "Sahara Desert (blablabla for longer name)",
-            "picture": "quiz0_category3.jpg"
+            "picture": "quiz0_category3.jpg",
+            "correctAnswerId": "4"
           }
         ],
         "options": [
           {
             "name": "Tree",
-            "picture": "quiz0_option0.jpg"
+            "picture": "quiz0_option0.jpg",
+            "optionId": "0"
           },
           {
             "name": "Super long name of option",
-            "picture": "quiz0_option2.jpg"
+            "picture": "quiz0_option2.jpg",
+            "optionId": "1"
           },
           {
             "name": "Dory",
-            "picture": "quiz0_option1.jpg"
+            "picture": "quiz0_option1.jpg",
+            "optionId": "2"
           },
           {
             "name": "Corn Flakes",
-            "picture": "quiz0_option3.jpg"
+            "picture": "quiz0_option3.jpg",
+            "optionId": "3"
           },
           {
             "name": "Blablab",
-            "picture": "quiz0_option3.jpg"
+            "picture": "quiz0_option3.jpg",
+            "optionId": "4"
           }
         ]
       }
@@ -2224,41 +2467,50 @@
         "categories": [
           {
             "name": "Amazon Rainforest",
-            "picture": "quiz0_category0.jpg"
+            "picture": "quiz0_category0.jpg",
+            "correctAnswerId": "0"
           },
           {
             "name": "On ocean",
-            "picture": "quiz0_category1.jpg"
+            "picture": "quiz0_category1.jpg",
+            "correctAnswerId": "1"
           },
           {
             "name": "In Ocean",
-            "picture": "quiz0_category2.jpg"
+            "picture": "quiz0_category2.jpg",
+            "correctAnswerId": "2"
           },
           {
             "name": "Sahara Desert (blablabla for longer name)",
-            "picture": "quiz0_category3.jpg"
+            "picture": "quiz0_category3.jpg",
+            "correctAnswerId": "4"
           }
         ],
         "options": [
           {
             "name": "Tree",
-            "picture": "quiz0_option0.jpg"
+            "picture": "quiz0_option0.jpg",
+            "optionId": "0"
           },
           {
             "name": "Super long name of option",
-            "picture": "quiz0_option2.jpg"
+            "picture": "quiz0_option2.jpg",
+            "optionId": "1"
           },
           {
             "name": "Dory",
-            "picture": "quiz0_option1.jpg"
+            "picture": "quiz0_option1.jpg",
+            "optionId": "2"
           },
           {
             "name": "Corn Flakes",
-            "picture": "quiz0_option3.jpg"
+            "picture": "quiz0_option3.jpg",
+            "optionId": "3"
           },
           {
             "name": "Blablab",
-            "picture": "quiz0_option3.jpg"
+            "picture": "quiz0_option3.jpg",
+            "optionId": "4"
           }
         ]
       }
