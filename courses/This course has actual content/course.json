@@ -53,23 +53,19 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
             "categories": [
               {
@@ -104,6 +100,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -133,25 +133,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -186,6 +181,10 @@
               {
                 "name": "Corn Flakes",
                 "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
+                "picture": "quiz0_option3.jpg"
               }
             ]
           }
@@ -214,25 +213,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -266,6 +260,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -321,25 +319,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -373,6 +366,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -402,25 +399,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -454,6 +446,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -483,25 +479,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -535,6 +526,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -564,25 +559,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -617,6 +607,10 @@
               {
                 "name": "Corn Flakes",
                 "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
+                "picture": "quiz0_option3.jpg"
               }
             ]
           }
@@ -645,25 +639,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -697,6 +686,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -752,25 +745,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -804,6 +792,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -833,25 +825,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -885,6 +872,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -914,25 +905,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -966,6 +952,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -995,25 +985,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1047,6 +1032,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -1076,25 +1065,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1128,6 +1112,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -1157,25 +1145,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1210,6 +1193,10 @@
               {
                 "name": "Corn Flakes",
                 "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
+                "picture": "quiz0_option3.jpg"
               }
             ]
           }
@@ -1238,25 +1225,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1290,6 +1272,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -1345,25 +1331,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1397,6 +1378,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -1426,25 +1411,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1478,6 +1458,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -1507,25 +1491,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1559,6 +1538,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -1588,25 +1571,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1640,6 +1618,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -1669,25 +1651,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1721,6 +1698,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -1750,25 +1731,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1802,6 +1778,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -1831,25 +1811,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1883,6 +1858,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -1912,25 +1891,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -1964,6 +1938,10 @@
               },
               {
                 "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
                 "picture": "quiz0_option3.jpg"
               }
             ]
@@ -1993,25 +1971,20 @@
         ],
         "chapterQuiz": [
           {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
-            "moduleType": "radiobuttonChallenge",
-            "question": "What warms faster?",
+            "moduleType": "choiceQuiz",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
-              "Land",
-              "Ocean"
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
             ],
-            "correctAnswer": "Land"
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
           },
           {
-            "moduleType": "dragDropChallenge",
+            "moduleType": "matchQuiz",
             "question": "Drop things where you think they belong to best.",
-
             "categories": [
               {
                 "name": "Amazon Rainforest",
@@ -2046,6 +2019,10 @@
               {
                 "name": "Corn Flakes",
                 "picture": "quiz0_option3.jpg"
+              },
+              {
+                "name": "Blablab",
+                "picture": "quiz0_option3.jpg"
               }
             ]
           }
@@ -2072,9 +2049,8 @@
         "correctAnswer": "Land"
       },
       {
-        "moduleType": "dragDropChallenge",
+        "moduleType": "matchQuiz",
         "question": "Drop things where you think they belong to best.",
-
         "categories": [
           {
             "name": "Amazon Rainforest",
@@ -2131,9 +2107,8 @@
         "correctAnswer": "Land"
       },
       {
-        "moduleType": "dragDropChallenge",
+        "moduleType": "matchQuiz",
         "question": "Drop things where you think they belong to best.",
-
         "categories": [
           {
             "name": "Amazon Rainforest",
@@ -2190,9 +2165,8 @@
         "correctAnswer": "Land"
       },
       {
-        "moduleType": "dragDropChallenge",
+        "moduleType": "matchQuiz",
         "question": "Drop things where you think they belong to best.",
-
         "categories": [
           {
             "name": "Amazon Rainforest",
@@ -2249,9 +2223,8 @@
         "correctAnswer": "Land"
       },
       {
-        "moduleType": "dragDropChallenge",
+        "moduleType": "matchQuiz",
         "question": "Drop things where you think they belong to best.",
-
         "categories": [
           {
             "name": "Amazon Rainforest",
