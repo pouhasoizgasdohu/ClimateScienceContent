@@ -1,44 +1,44 @@
 {
   "courses": [
     {
-      "name": "This course has actual content 2",
-      "lastUpdated": "19:05 ET 15-09-2019"
+      "courseId": "C1",
+      "lastUpdated": "19:06 ET 15-09-2019"
     },
     {
-      "name": "Long Course Name to stresstest your code 2",
-      "lastUpdated": "19:05 ET 15-09-2019"
+      "courseId": "C2",
+      "lastUpdated": "19:06 ET 15-09-2019"
     },
     {
-      "name": "Empty Course 1",
-      "lastUpdated": "19:05 ET 15-09-2019"
+      "courseId": "C3",
+      "lastUpdated": "19:06 ET 15-09-2019"
     },
     {
-      "name": "Empty Course 2",
-      "lastUpdated": "19:05 ET 15-09-2019"
+      "courseId": "C4",
+      "lastUpdated": "19:06 ET 15-09-2019"
     },
     {
-      "name": "Empty Course 3",
-      "lastUpdated": "19:05 ET 15-09-2019"
+      "courseId": "C5",
+      "lastUpdated": "19:06 ET 15-09-2019"
     },
     {
-      "name": "Empty Course 4",
-      "lastUpdated": "19:05 ET 15-09-2019"
+      "courseId": "C6",
+      "lastUpdated": "19:06 ET 15-09-2019"
     },
     {
-      "name": "Empty Course 5",
-      "lastUpdated": "19:05 ET 15-09-2019"
+      "courseId": "C7",
+      "lastUpdated": "19:06 ET 15-09-2019"
     },
     {
-      "name": "Empty Course 6",
-      "lastUpdated": "19:05 ET 15-09-2019"
+      "courseId": "C8",
+      "lastUpdated": "19:06 ET 15-09-2019"
     },
     {
-      "name": "Empty Course 7",
-      "lastUpdated": "19:05 ET 15-09-2019"
+      "courseId": "C9",
+      "lastUpdated": "19:06 ET 15-09-2019"
     },
     {
-      "name": "Empty Course 8",
-      "lastUpdated": "19:05 ET 15-09-2019"
+      "courseId": "C10",
+      "lastUpdated": "19:06 ET 15-09-2019"
     }
   ]
 }
