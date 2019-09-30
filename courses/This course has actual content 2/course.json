@@ -2031,61 +2031,237 @@
     ]
   ],
   "finalQuiz": [
-    {
-      "moduleType": "choiceQuiz",
-      "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
-      "options": [
-        "A",
-        "B",
-        "C",
-        "Kangaroos"
-      ],
-      "correctAnswer": "Kangaroos",
-      "picture": "kangaroo.png"
-    },
-    {
-      "moduleType": "matchQuiz",
-      "question": "Drop things where you think they belong to best.",
-      "categories": [
-        {
-          "name": "Amazon Rainforest",
-          "picture": "quiz0_category0.jpg"
-        },
-        {
-          "name": "On ocean",
-          "picture": "quiz0_category1.jpg"
-        },
-        {
-          "name": "In Ocean",
-          "picture": "quiz0_category2.jpg"
-        },
-        {
-          "name": "Sahara Desert (blablabla for longer name)",
-          "picture": "quiz0_category3.jpg"
-        }
-      ],
-      "options": [
-        {
-          "name": "Tree",
-          "picture": "quiz0_option0.jpg"
-        },
-        {
-          "name": "Super long name of option",
-          "picture": "quiz0_option2.jpg"
-        },
-        {
-          "name": "Dory",
-          "picture": "quiz0_option1.jpg"
-        },
-        {
-          "name": "Corn Flakes",
-          "picture": "quiz0_option3.jpg"
-        },
-        {
-          "name": "Blablab",
-          "picture": "quiz0_option3.jpg"
-        }
-      ]
-    }
+    [
+      {
+        "moduleType": "choiceQuiz",
+        "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "Kangaroos"
+        ],
+        "correctAnswer": "Kangaroos",
+        "picture": "kangaroo.png"
+      },
+      {
+        "moduleType": "matchQuiz",
+        "question": "Drop things where you think they belong to best.",
+        "categories": [
+          {
+            "name": "Amazon Rainforest",
+            "picture": "quiz0_category0.jpg"
+          },
+          {
+            "name": "On ocean",
+            "picture": "quiz0_category1.jpg"
+          },
+          {
+            "name": "In Ocean",
+            "picture": "quiz0_category2.jpg"
+          },
+          {
+            "name": "Sahara Desert (blablabla for longer name)",
+            "picture": "quiz0_category3.jpg"
+          }
+        ],
+        "options": [
+          {
+            "name": "Tree",
+            "picture": "quiz0_option0.jpg"
+          },
+          {
+            "name": "Super long name of option",
+            "picture": "quiz0_option2.jpg"
+          },
+          {
+            "name": "Dory",
+            "picture": "quiz0_option1.jpg"
+          },
+          {
+            "name": "Corn Flakes",
+            "picture": "quiz0_option3.jpg"
+          },
+          {
+            "name": "Blablab",
+            "picture": "quiz0_option3.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "moduleType": "choiceQuiz",
+        "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "Kangaroos"
+        ],
+        "correctAnswer": "Kangaroos",
+        "picture": "kangaroo.png"
+      },
+      {
+        "moduleType": "matchQuiz",
+        "question": "Drop things where you think they belong to best.",
+        "categories": [
+          {
+            "name": "Amazon Rainforest",
+            "picture": "quiz0_category0.jpg"
+          },
+          {
+            "name": "On ocean",
+            "picture": "quiz0_category1.jpg"
+          },
+          {
+            "name": "In Ocean",
+            "picture": "quiz0_category2.jpg"
+          },
+          {
+            "name": "Sahara Desert (blablabla for longer name)",
+            "picture": "quiz0_category3.jpg"
+          }
+        ],
+        "options": [
+          {
+            "name": "Tree",
+            "picture": "quiz0_option0.jpg"
+          },
+          {
+            "name": "Super long name of option",
+            "picture": "quiz0_option2.jpg"
+          },
+          {
+            "name": "Dory",
+            "picture": "quiz0_option1.jpg"
+          },
+          {
+            "name": "Corn Flakes",
+            "picture": "quiz0_option3.jpg"
+          },
+          {
+            "name": "Blablab",
+            "picture": "quiz0_option3.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "moduleType": "choiceQuiz",
+        "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "Kangaroos"
+        ],
+        "correctAnswer": "Kangaroos",
+        "picture": "kangaroo.png"
+      },
+      {
+        "moduleType": "matchQuiz",
+        "question": "Drop things where you think they belong to best.",
+        "categories": [
+          {
+            "name": "Amazon Rainforest",
+            "picture": "quiz0_category0.jpg"
+          },
+          {
+            "name": "On ocean",
+            "picture": "quiz0_category1.jpg"
+          },
+          {
+            "name": "In Ocean",
+            "picture": "quiz0_category2.jpg"
+          },
+          {
+            "name": "Sahara Desert (blablabla for longer name)",
+            "picture": "quiz0_category3.jpg"
+          }
+        ],
+        "options": [
+          {
+            "name": "Tree",
+            "picture": "quiz0_option0.jpg"
+          },
+          {
+            "name": "Super long name of option",
+            "picture": "quiz0_option2.jpg"
+          },
+          {
+            "name": "Dory",
+            "picture": "quiz0_option1.jpg"
+          },
+          {
+            "name": "Corn Flakes",
+            "picture": "quiz0_option3.jpg"
+          },
+          {
+            "name": "Blablab",
+            "picture": "quiz0_option3.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "moduleType": "choiceQuiz",
+        "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "Kangaroos"
+        ],
+        "correctAnswer": "Kangaroos",
+        "picture": "kangaroo.png"
+      },
+      {
+        "moduleType": "matchQuiz",
+        "question": "Drop things where you think they belong to best.",
+        "categories": [
+          {
+            "name": "Amazon Rainforest",
+            "picture": "quiz0_category0.jpg"
+          },
+          {
+            "name": "On ocean",
+            "picture": "quiz0_category1.jpg"
+          },
+          {
+            "name": "In Ocean",
+            "picture": "quiz0_category2.jpg"
+          },
+          {
+            "name": "Sahara Desert (blablabla for longer name)",
+            "picture": "quiz0_category3.jpg"
+          }
+        ],
+        "options": [
+          {
+            "name": "Tree",
+            "picture": "quiz0_option0.jpg"
+          },
+          {
+            "name": "Super long name of option",
+            "picture": "quiz0_option2.jpg"
+          },
+          {
+            "name": "Dory",
+            "picture": "quiz0_option1.jpg"
+          },
+          {
+            "name": "Corn Flakes",
+            "picture": "quiz0_option3.jpg"
+          },
+          {
+            "name": "Blablab",
+            "picture": "quiz0_option3.jpg"
+          }
+        ]
+      }
+    ]
   ]
 }
