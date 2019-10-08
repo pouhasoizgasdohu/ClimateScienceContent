@@ -15,10 +15,6 @@
             "content": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
           },
           {
-            "moduleType": "title",
-            "content": "This is a title with two lines to check if the code can handle it."
-          },
-          {
             "moduleType": "image",
             "content": "kangaroo.png"
           },
@@ -316,10 +312,6 @@
           {
             "moduleType": "text",
             "content": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
-          },
-          {
-            "moduleType": "title",
-            "content": "This is a title with two lines to check if the code can handle it."
           },
           {
             "moduleType": "image",
@@ -801,10 +793,6 @@
           {
             "moduleType": "text",
             "content": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
-          },
-          {
-            "moduleType": "title",
-            "content": "This is a title with two lines to check if the code can handle it."
           },
           {
             "moduleType": "image",
@@ -1468,10 +1456,6 @@
           {
             "moduleType": "text",
             "content": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
-          },
-          {
-            "moduleType": "title",
-            "content": "This is a title with two lines to check if the code can handle it."
           },
           {
             "moduleType": "image",
