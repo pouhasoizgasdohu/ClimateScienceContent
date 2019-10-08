@@ -5,10 +5,16 @@
   "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
   "category": "Forests",
   "categoryIndex": 1,
-  "refs": {
-    "REF_TITLE1": "https://www.jstor.org/stable/2402176",
-    "REF_TITLE2": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2003GL017996"
-  },
+  "refs": [
+    {
+      "name": "REF_TITLE1",
+      "url": "https://www.jstor.org/stable/2402176"
+    },
+    {
+      "name": "REF_TITLE2",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2003GL017996"
+    }
+  ],
   "chapters": [
     [
       {
