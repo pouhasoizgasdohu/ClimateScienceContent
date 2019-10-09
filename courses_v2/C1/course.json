@@ -173,6 +173,7 @@
         "chapterQuiz": [
           {
             "moduleType": "choiceQuiz",
+            "questionId": "Question1",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
@@ -186,6 +187,7 @@
           },
           {
             "moduleType": "matchQuiz",
+            "questionId": "Question2",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "Drop things where you think they belong to best.",
             "categories": [
@@ -316,6 +318,7 @@
         "chapterQuiz": [
           {
             "moduleType": "choiceQuiz",
+            "questionId": "Question1",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
@@ -329,149 +332,7 @@
           },
           {
             "moduleType": "matchQuiz",
-            "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
-            "question": "Drop things where you think they belong to best.",
-            "categories": [
-              {
-                "name": "Amazon Rainforest",
-                "picture": "quiz0_category0.jpg",
-                "correctAnswerId": "0"
-              },
-              {
-                "name": "On ocean",
-                "picture": "quiz0_category1.jpg",
-                "correctAnswerId": "1"
-              },
-              {
-                "name": "In Ocean",
-                "picture": "quiz0_category2.jpg",
-                "correctAnswerId": "2"
-              },
-              {
-                "name": "Sahara Desert (blablabla for longer name)",
-                "picture": "quiz0_category3.jpg",
-                "correctAnswerId": "4"
-              }
-            ],
-            "options": [
-              {
-                "name": "Tree",
-                "picture": "quiz0_option0.jpg",
-                "optionId": "0"
-              },
-              {
-                "name": "Super long name of option",
-                "picture": "quiz0_option2.jpg",
-                "optionId": "1"
-              },
-              {
-                "name": "Dory",
-                "picture": "quiz0_option1.jpg",
-                "optionId": "2"
-              },
-              {
-                "name": "Corn Flakes",
-                "picture": "quiz0_option3.jpg",
-                "optionId": "3"
-              },
-              {
-                "name": "Blablab",
-                "picture": "quiz0_option3.jpg",
-                "optionId": "4"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "chapterId": "C1-Det0-3",
-        "name": "Chapter3",
-        "modules": [
-          {
-            "moduleType": "image",
-            "content": "kangaroo.png"
-          },
-          {
-            "moduleType": "video",
-            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
-          },
-          {
-            "moduleType": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "content": "Lorem ipsum, or lipsum"
-              },
-              {
-                "type": "refs",
-                "content": [
-                  "REF_TITLE1",
-                  "REF_TITLE2"
-                ]
-              },
-              {
-                "type": "text",
-                "content": "as it is sometimes known, is dummy text used in laying out print"
-              },
-              {
-                "type": "refs",
-                "content": [
-                  "REF_TITLE2"
-                ]
-              },
-              {
-                "type": "text",
-                "content": ", graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
-              }
-            ]
-          },
-          {
-            "moduleType": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "content": "Lorem ipsum, or lipsum"
-              },
-              {
-                "type": "refs",
-                "content": [
-                  "REF_TITLE1",
-                  "REF_TITLE2"
-                ]
-              },
-              {
-                "type": "text",
-                "content": "as it is sometimes known, is dummy text used in laying out print"
-              },
-              {
-                "type": "refs",
-                "content": [
-                  "REF_TITLE2"
-                ]
-              },
-              {
-                "type": "text",
-                "content": ", graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
-              }
-            ]
-          }
-        ],
-        "chapterQuiz": [
-          {
-            "moduleType": "choiceQuiz",
-            "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
-            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
-            "options": [
-              "A",
-              "B",
-              "C",
-              "Kangaroos"
-            ],
-            "correctAnswer": "Kangaroos",
-            "picture": "kangaroo.png"
-          },
-          {
-            "moduleType": "matchQuiz",
+            "questionId": "Question2",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "Drop things where you think they belong to best.",
             "categories": [
@@ -588,17 +449,6 @@
             ]
           },
           {
-            "moduleType": "text",
-            "content": "or lipsum as it is sometimes known, is dummy n the 15th century who is thought to have scrambled parts of Cicero'sm for use in a type specimen"
-          },
-          {
-            "moduleType": "numberChallenge",
-            "question": "By how many centimeters have sea levels risen since 1900?",
-            "correctAnswer": "18",
-            "toleranceMax": "22",
-            "toleranceMin": "15"
-          },
-          {
             "moduleType": "paragraph",
             "content": [
               {
@@ -627,11 +477,23 @@
                 "content": ", graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
               }
             ]
+          },
+          {
+            "moduleType": "numberChallenge",
+            "question": "By how many centimeters have sea levels risen since 1900?",
+            "correctAnswer": "18",
+            "toleranceMax": "22",
+            "toleranceMin": "15"
+          },
+          {
+            "moduleType": "text",
+            "content": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
           }
         ],
         "chapterQuiz": [
           {
             "moduleType": "choiceQuiz",
+            "questionId": "Question1",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
@@ -645,6 +507,7 @@
           },
           {
             "moduleType": "matchQuiz",
+            "questionId": "Question2",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "Drop things where you think they belong to best.",
             "categories": [
@@ -775,6 +638,7 @@
         "chapterQuiz": [
           {
             "moduleType": "choiceQuiz",
+            "questionId": "Question1",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
@@ -788,6 +652,7 @@
           },
           {
             "moduleType": "matchQuiz",
+            "questionId": "Question2",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "Drop things where you think they belong to best.",
             "categories": [
@@ -918,6 +783,7 @@
         "chapterQuiz": [
           {
             "moduleType": "choiceQuiz",
+            "questionId": "Question1",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
@@ -931,6 +797,7 @@
           },
           {
             "moduleType": "matchQuiz",
+            "questionId": "Question2",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "Drop things where you think they belong to best.",
             "categories": [
@@ -1061,6 +928,7 @@
         "chapterQuiz": [
           {
             "moduleType": "choiceQuiz",
+            "questionId": "Question1",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
@@ -1074,6 +942,7 @@
           },
           {
             "moduleType": "matchQuiz",
+            "questionId": "Question2",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "Drop things where you think they belong to best.",
             "categories": [
@@ -1204,6 +1073,7 @@
         "chapterQuiz": [
           {
             "moduleType": "choiceQuiz",
+            "questionId": "Question1",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
             "options": [
@@ -1217,6 +1087,587 @@
           },
           {
             "moduleType": "matchQuiz",
+            "questionId": "Question2",
+            "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
+            "question": "Drop things where you think they belong to best.",
+            "categories": [
+              {
+                "name": "Amazon Rainforest",
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
+              },
+              {
+                "name": "On ocean",
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
+              },
+              {
+                "name": "In Ocean",
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
+              },
+              {
+                "name": "Sahara Desert (blablabla for longer name)",
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
+              }
+            ],
+            "options": [
+              {
+                "name": "Tree",
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
+              },
+              {
+                "name": "Super long name of option",
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
+              },
+              {
+                "name": "Dory",
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
+              },
+              {
+                "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
+              },
+              {
+                "name": "Blablab",
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "chapterId": "C1-Det1-6",
+        "name": "Chapter6",
+        "modules": [
+          {
+            "moduleType": "image",
+            "content": "kangaroo.png"
+          },
+          {
+            "moduleType": "video",
+            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
+          },
+          {
+            "moduleType": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "content": "Lorem ipsum, or lipsum"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE1",
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": "as it is sometimes known, is dummy text used in laying out print"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": ", graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+              }
+            ]
+          },
+          {
+            "moduleType": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "content": "Lorem ipsum, or lipsum"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE1",
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": "as it is sometimes known, is dummy text used in laying out print"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": ", graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+              }
+            ]
+          }
+        ],
+        "chapterQuiz": [
+          {
+            "moduleType": "choiceQuiz",
+            "questionId": "Question1",
+            "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
+            ],
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
+          },
+          {
+            "moduleType": "matchQuiz",
+            "questionId": "Question2",
+            "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
+            "question": "Drop things where you think they belong to best.",
+            "categories": [
+              {
+                "name": "Amazon Rainforest",
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
+              },
+              {
+                "name": "On ocean",
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
+              },
+              {
+                "name": "In Ocean",
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
+              },
+              {
+                "name": "Sahara Desert (blablabla for longer name)",
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
+              }
+            ],
+            "options": [
+              {
+                "name": "Tree",
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
+              },
+              {
+                "name": "Super long name of option",
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
+              },
+              {
+                "name": "Dory",
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
+              },
+              {
+                "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
+              },
+              {
+                "name": "Blablab",
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "chapterId": "C1-Det1-7",
+        "name": "Chapter7",
+        "modules": [
+          {
+            "moduleType": "image",
+            "content": "kangaroo.png"
+          },
+          {
+            "moduleType": "video",
+            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
+          },
+          {
+            "moduleType": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "content": "Lorem ipsum, or lipsum"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE1",
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": "as it is sometimes known, is dummy text used in laying out print"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": ", graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+              }
+            ]
+          },
+          {
+            "moduleType": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "content": "Lorem ipsum, or lipsum"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE1",
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": "as it is sometimes known, is dummy text used in laying out print"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": ", graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+              }
+            ]
+          }
+        ],
+        "chapterQuiz": [
+          {
+            "moduleType": "choiceQuiz",
+            "questionId": "Question1",
+            "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
+            ],
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
+          },
+          {
+            "moduleType": "matchQuiz",
+            "questionId": "Question2",
+            "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
+            "question": "Drop things where you think they belong to best.",
+            "categories": [
+              {
+                "name": "Amazon Rainforest",
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
+              },
+              {
+                "name": "On ocean",
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
+              },
+              {
+                "name": "In Ocean",
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
+              },
+              {
+                "name": "Sahara Desert (blablabla for longer name)",
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
+              }
+            ],
+            "options": [
+              {
+                "name": "Tree",
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
+              },
+              {
+                "name": "Super long name of option",
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
+              },
+              {
+                "name": "Dory",
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
+              },
+              {
+                "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
+              },
+              {
+                "name": "Blablab",
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "chapterId": "C1-Det1-8",
+        "name": "Chapter8",
+        "modules": [
+          {
+            "moduleType": "image",
+            "content": "kangaroo.png"
+          },
+          {
+            "moduleType": "video",
+            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
+          },
+          {
+            "moduleType": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "content": "Lorem ipsum, or lipsum"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE1",
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": "as it is sometimes known, is dummy text used in laying out print"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": ", graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+              }
+            ]
+          },
+          {
+            "moduleType": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "content": "Lorem ipsum, or lipsum"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE1",
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": "as it is sometimes known, is dummy text used in laying out print"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": ", graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+              }
+            ]
+          }
+        ],
+        "chapterQuiz": [
+          {
+            "moduleType": "choiceQuiz",
+            "questionId": "Question1",
+            "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
+            ],
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
+          },
+          {
+            "moduleType": "matchQuiz",
+            "questionId": "Question2",
+            "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
+            "question": "Drop things where you think they belong to best.",
+            "categories": [
+              {
+                "name": "Amazon Rainforest",
+                "picture": "quiz0_category0.jpg",
+                "correctAnswerId": "0"
+              },
+              {
+                "name": "On ocean",
+                "picture": "quiz0_category1.jpg",
+                "correctAnswerId": "1"
+              },
+              {
+                "name": "In Ocean",
+                "picture": "quiz0_category2.jpg",
+                "correctAnswerId": "2"
+              },
+              {
+                "name": "Sahara Desert (blablabla for longer name)",
+                "picture": "quiz0_category3.jpg",
+                "correctAnswerId": "4"
+              }
+            ],
+            "options": [
+              {
+                "name": "Tree",
+                "picture": "quiz0_option0.jpg",
+                "optionId": "0"
+              },
+              {
+                "name": "Super long name of option",
+                "picture": "quiz0_option2.jpg",
+                "optionId": "1"
+              },
+              {
+                "name": "Dory",
+                "picture": "quiz0_option1.jpg",
+                "optionId": "2"
+              },
+              {
+                "name": "Corn Flakes",
+                "picture": "quiz0_option3.jpg",
+                "optionId": "3"
+              },
+              {
+                "name": "Blablab",
+                "picture": "quiz0_option3.jpg",
+                "optionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "chapterId": "C1-Det1-9",
+        "name": "Chapter9",
+        "modules": [
+          {
+            "moduleType": "image",
+            "content": "kangaroo.png"
+          },
+          {
+            "moduleType": "video",
+            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
+          },
+          {
+            "moduleType": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "content": "Lorem ipsum, or lipsum"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE1",
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": "as it is sometimes known, is dummy text used in laying out print"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": ", graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+              }
+            ]
+          },
+          {
+            "moduleType": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "content": "Lorem ipsum, or lipsum"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE1",
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": "as it is sometimes known, is dummy text used in laying out print"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "REF_TITLE2"
+                ]
+              },
+              {
+                "type": "text",
+                "content": ", graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book"
+              }
+            ]
+          }
+        ],
+        "chapterQuiz": [
+          {
+            "moduleType": "choiceQuiz",
+            "questionId": "Question1",
+            "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
+            "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "Kangaroos"
+            ],
+            "correctAnswer": "Kangaroos",
+            "picture": "kangaroo.png"
+          },
+          {
+            "moduleType": "matchQuiz",
+            "questionId": "Question2",
             "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
             "question": "Drop things where you think they belong to best.",
             "categories": [
@@ -1277,6 +1728,7 @@
     [
       {
         "moduleType": "choiceQuiz",
+            "questionId": "Question1",
         "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
         "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
         "options": [
@@ -1290,6 +1742,7 @@
       },
       {
         "moduleType": "matchQuiz",
+            "questionId": "Question2",
         "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
         "question": "Drop things where you think they belong to best.",
         "categories": [
@@ -1346,6 +1799,7 @@
     [
       {
         "moduleType": "choiceQuiz",
+            "questionId": "Question1",
         "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
         "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
         "options": [
@@ -1359,6 +1813,7 @@
       },
       {
         "moduleType": "matchQuiz",
+            "questionId": "Question2",
         "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
         "question": "Drop things where you think they belong to best.",
         "categories": [
