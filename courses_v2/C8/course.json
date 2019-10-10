@@ -1,6 +1,8 @@
 {
   "courseId": "C8",
   "name": "Empty Course 7",
+  "brigtColor": "6ff796",
+  "darkColor": "0f5222",
   "baseColor": "7ea0cf",
   "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
   "category": "Introduction to Climate Change",
