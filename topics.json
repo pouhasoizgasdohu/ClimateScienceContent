@@ -1,7 +1,32 @@
 {
   "ordered": [
-    ["Introduction to Climate Change", ["C2", "C3"]],
-    ["Forests", ["C4", "C1", "C5", "C6", "C7"]],
-    ["Oceans", ["C8", "C9", "C10"]]
+    {
+      "name": "Introduction to Climate Change",
+      "courses": [
+        "C2",
+        "C3"
+      ],
+      "baseColor": "b265e6"
+    },
+    {
+      "name": "Forests",
+      "courses": [
+        "C4",
+        "C1",
+        "C5",
+        "C6",
+        "C7"
+      ],
+      "baseColor": "6581e6"
+    },
+    {
+      "name": "Oceans",
+      "courses": [
+        "C8",
+        "C9",
+        "C10"
+      ],
+      "baseColor": "57b6d9"
+    }
   ]
 }
