@@ -429,10 +429,6 @@
             "content": "kangaroo.png"
           },
           {
-            "moduleType": "video",
-            "content": "https://www.youtube.com/watch?v=4YpXEAKyorM"
-          },
-          {
             "moduleType": "radiobuttonChallenge",
             "question": "What warms faster?",
             "options": [
