@@ -153,7 +153,6 @@
         "chapterId": "C7_5-Det1-5",
         "name": "Carbon Capture & Storage",
         "modules": [
-
           {
             "moduleType": "paragraph",
             "content": [
@@ -509,7 +508,55 @@
             "content": [
               {
                 "type": "text",
-                "content": "Onshore wind, solar PV, and hydro energy are cheaper than Gas+CCS"
+                "content": "Below is a graph showing the predicted cost of electricity for different power sources in the USA in 2023"
+              },
+              {
+                "type": "refs",
+                "content": [
+                  "[18]"
+                ]
+              }
+            ]
+          },
+          {
+            "moduleType": "barchart",
+            "content": [
+              {
+                "name": "Coal+CCS",
+                "value": 97
+              },
+              {
+                "name": "Gas+CCS",
+                "value": 67
+              },
+              {
+                "name": "Gas without CCS",
+                "value": 41
+              },
+              {
+                "name": "Nuclear",
+                "value": 77
+              },
+              {
+                "name": "Onshore Wind",
+                "value": 56
+              },
+              {
+                "name": "Solar PV",
+                "value": 60
+              },
+              {
+                "name": "Hydro",
+                "value": 38
+              }
+            ]
+          },
+          {
+            "moduleType": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "content": "As we can see in the plot above, onshore wind, solar PV, and hydro energy are cheaper than Gas+CCS"
               },
               {
                 "type": "refs",
