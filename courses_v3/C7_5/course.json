@@ -86,38 +86,32 @@
         "chapterId": "C7_5-Det0-1",
         "name": "Introduction",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det0-2",
         "name": "Tree Planting & Nature",
-        "modules": [],
-        "chapterQuiz": []
+        "modules": []
       },
       {
         "chapterId": "C7_5-Det0-3",
         "name": "Capture CO2 from Air",
-        "modules": [],
-        "chapterQuiz": []
+        "modules": []
       },
       {
         "chapterId": "C7_5-Det0-4",
         "name": "Carbon Capture & Storage",
-        "modules": [],
-        "chapterQuiz": []
+        "modules": []
       },
       {
         "chapterId": "C7_5-Det0-5",
         "name": "Conclusion",
-        "modules": [],
-        "chapterQuiz": []
+        "modules": []
       },
       {
         "chapterId": "C7_5-Det0-6",
         "name": "Open Problems",
-        "modules": [],
-        "chapterQuiz": []
+        "modules": []
       }
     ],
     [
@@ -125,29 +119,25 @@
         "chapterId": "C7_5-Det1-1",
         "name": "Introduction",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-2",
         "name": "Tree Planting",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-3",
         "name": "Nature-based Methods",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-4",
         "name": "Direct Air Capture",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-5",
@@ -292,43 +282,37 @@
             "moduleType": "paragraph",
             "content": "As we can see in the plot above, onshore wind, solar PV, and hydro energy are cheaper than Gas+CCS [18]. However, there is no obvious alternative to CCS for decarbonising industrial processes like steel and cement production [3]. Therefore, it might be more useful for these applications."
           }
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-6",
         "name": "Bioenergy + CCS",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-7",
         "name": "Storing CO2",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-8",
         "name": "Other Ideas",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-9",
         "name": "Conclusion",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-10",
         "name": "Open Problems",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       }
     ]
   ],
@@ -338,11 +322,11 @@
         "moduleType": "choiceQuiz",
         "questionId": "Question1",
         "feedbackMsg": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book",
-        "question": "We ask many questions. Some are good, some aren't. If you can choose between A, B, C, and D, which answer do you like best?",
+        "question": "We ask many questions. Some are hard, some easy. If you can choose between A, B, C, and D, which answer do you like best?",
         "options": [
-          "A",
-          "B",
-          "C",
+          "The UK doesn't leave the EU.",
+          "Yannis",
+          "Birds",
           "Kangaroos"
         ],
         "correctAnswer": "Kangaroos",

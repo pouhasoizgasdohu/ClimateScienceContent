@@ -86,38 +86,32 @@
         "chapterId": "C7_5-Det0-1",
         "name": "Introduction",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det0-2",
         "name": "Tree Planting & Nature",
-        "modules": [],
-        "chapterQuiz": []
+        "modules": []
       },
       {
         "chapterId": "C7_5-Det0-3",
         "name": "Capture CO2 from Air",
-        "modules": [],
-        "chapterQuiz": []
+        "modules": []
       },
       {
         "chapterId": "C7_5-Det0-4",
         "name": "Carbon Capture & Storage",
-        "modules": [],
-        "chapterQuiz": []
+        "modules": []
       },
       {
         "chapterId": "C7_5-Det0-5",
         "name": "Conclusion",
-        "modules": [],
-        "chapterQuiz": []
+        "modules": []
       },
       {
         "chapterId": "C7_5-Det0-6",
         "name": "Open Problems",
-        "modules": [],
-        "chapterQuiz": []
+        "modules": []
       }
     ],
     [
@@ -125,29 +119,25 @@
         "chapterId": "C7_5-Det1-1",
         "name": "Introduction",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-2",
         "name": "Tree Planting",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-3",
         "name": "Nature-based Methods",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-4",
         "name": "Direct Air Capture",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-5",
@@ -580,43 +570,37 @@
               }
             ]
           }
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-6",
         "name": "Bioenergy + CCS",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-7",
         "name": "Storing CO2",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-8",
         "name": "Other Ideas",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-9",
         "name": "Conclusion",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       },
       {
         "chapterId": "C7_5-Det1-10",
         "name": "Open Problems",
         "modules": [
-        ],
-        "chapterQuiz": []
+        ]
       }
     ]
   ],
