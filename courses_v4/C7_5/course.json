@@ -243,10 +243,10 @@
             "moduleType": "radiobuttonChallenge",
             "question": "What's cheaper per unit of energy?",
             "options": [
-              "Gas without CCS",
+              "Gas",
               "Onshore wind"
             ],
-            "correctAnswer": "Gas without CCS"
+            "correctAnswer": "Gas"
           },
           {
             "moduleType": "paragraph",
@@ -254,7 +254,7 @@
           },
           {
             "moduleType": "barchart",
-            "y-axis": "projected US$/MWh in USA 2023",
+            "y-axis": "Projected US$/MWh in USA 2023",
             "content": [
               {
                 "name": "Coal+CCS",
@@ -265,7 +265,7 @@
                 "value": 67
               },
               {
-                "name": "Gas without CCS",
+                "name": "Gas",
                 "value": 41
               },
               {
