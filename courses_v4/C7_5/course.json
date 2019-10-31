@@ -254,6 +254,7 @@
           },
           {
             "moduleType": "barchart",
+            "y-axis": "projected US$/MWh in USA 2023",
             "content": [
               {
                 "name": "Coal+CCS",
