@@ -1,7 +1,8 @@
 {
   "courseId": "C11",
-  "name": "Economics",
-  "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
+  "name": "Introduction",
+  "published": "false",
+  "summary": "The world functions because of the ways in which society organizes itself. In other words, because of economics and politics. Understanding this, gives you superpowers.",
   "refs": [],
   "chapters": [
     [],

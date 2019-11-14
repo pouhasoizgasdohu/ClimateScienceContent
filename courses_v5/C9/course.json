@@ -1,7 +1,8 @@
 {
   "courseId": "C9",
   "name": "Society",
-  "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
+  "published": "false",
+  "summary": "Climate change is already happening and will likely continue. Aside trying to slow it, what do we have to do to be prepared for that?",
   "refs": [],
   "chapters": [
     [],

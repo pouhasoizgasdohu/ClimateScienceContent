@@ -1,7 +1,8 @@
 {
   "courseId": "C5",
   "name": "Future of Energy",
-  "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
+  "published": "false",
+  "summary": "Can we make energy more environmentally friendly and cheaper? How?",
   "refs": [],
   "chapters": [
     [],

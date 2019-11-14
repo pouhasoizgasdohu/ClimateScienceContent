@@ -25,8 +25,8 @@
         "C4",
         "C5",
         "C6",
-        "C7",
         "C7_5",
+        "C7",
         "C7_6",
         "C8"
       ],
@@ -60,7 +60,8 @@
       "shortName": "Economics & Politics",
       "courses": [
         "C11",
-        "C12"
+        "C12",
+        "C13"
       ],
       "colors": {
         "bgColor1": {

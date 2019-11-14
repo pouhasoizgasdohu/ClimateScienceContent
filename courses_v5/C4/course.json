@@ -1,7 +1,8 @@
 {
   "courseId": "C4",
   "name": "Energy",
-  "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
+  "published": "false",
+  "summary": "Energy is the biggest contributor to climate change. It turns out, nuclear energy is the safest and most environmentally friendly alternative, despite occasional accidents. Find out why!",
   "refs": [],
   "chapters": [
     [],

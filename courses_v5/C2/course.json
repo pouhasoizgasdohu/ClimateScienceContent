@@ -1,7 +1,8 @@
 {
   "courseId": "C2",
   "name": "Climate Predictions",
-  "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
+  "published": "false",
+  "summary": "Climate models help us understand what the word will look like many years into the future. Learn about future projections on temperature & sea level rise.",
   "refs": [],
   "chapters": [
     [],

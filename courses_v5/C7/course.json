@@ -1,7 +1,8 @@
 {
   "courseId": "C7",
-  "name": "Industry",
-  "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
+  "name": "Industrial Innovation",
+  "published": "false",
+  "summary": "Industry sounds boring, but we need buildings to live in and cars to drive. These things need to be made. Can we make them in an environmentally friendly way?",
   "refs": [],
   "chapters": [
     [],

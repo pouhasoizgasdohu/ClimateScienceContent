@@ -1,7 +1,8 @@
 {
   "courseId": "C8",
   "name": "Personal Action",
-  "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
+  "published": "false",
+  "summary": "This course is all about the small things that you can do. Avoiding plastic helps surprisingly little, but there are many things that do help!",
   "refs": [],
   "chapters": [
     [],

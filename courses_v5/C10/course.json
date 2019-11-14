@@ -1,7 +1,8 @@
 {
   "courseId": "C10",
   "name": "Nature",
-  "summary": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
+  "published": "false",
+  "summary": "Will land- and marine life be able to adapt to climate change? Can (and should) we help nature to do so?",
   "refs": [],
   "chapters": [
     [],
