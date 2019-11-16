@@ -187,6 +187,54 @@
             "content": "Alternatively, the CO2 can be used as a resource to make new products, such as cement and carbonated drinks [15]. With some simple chemistry, we can even make fuel from the CO2, by combining it with water and energy [11]; this is not yet commercially available [7], but progress is being made [11]. Learn more about this in the next chapter."
           },
           {
+            "moduleType": "bulletpoints",
+            "content": [
+              "Thing 1",
+              "Long thing 2 with lots of characters to test two lines",
+              "Thing 3"
+            ]
+          },
+          {
+            "moduleType": "graph",
+            "x": [
+              2000,
+              2001,
+              2002,
+              2003,
+              2004,
+              2005,
+              2006,
+              2009,
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
+              2015,
+              2016
+            ],
+            "y": [
+              1,
+              1,
+              2,
+              4,
+              7,
+              8,
+              5,
+              4,
+              2,
+              2,
+              4,
+              4,
+              5,
+              -6,
+              2
+            ],
+            "y-axis" : "This is a very long Y-axis title to test code",
+            "x-axis" : "This is a very long X-axis title to test code",
+            "x-axis-type" : "int"
+          },
+          {
             "moduleType": "image",
             "content": "IMG-0823.png"
           },
