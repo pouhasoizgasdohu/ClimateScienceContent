@@ -1,7 +1,7 @@
 {
   "courseId": "C6",
   "name": "Energy Storage",
-  "published": "false",
+
   "summary": "The reason solar and wind don't scale to the world's energy needs is that we can't store energy cheaply enough. Could that change?",
   "refs": [],
   "chapters": [
