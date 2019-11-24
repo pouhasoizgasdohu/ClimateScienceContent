@@ -1,0 +1,277 @@
+{
+  "refs": [
+    {
+      "name": "1",
+      "url": "https://www.parliament.uk/documents/post/postpn335.pdf"
+    },
+    {
+      "name": "2",
+      "url": "https://pubs.acs.org/doi/10.1021/cr980085a"
+    },
+    {
+      "name": "3",
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2018/ee/c7ee02342a "
+    },
+    {
+      "name": "4",
+      "url": "https://www.hindawi.com/journals/tswj/2014/828131/"
+    },
+    {
+      "name": "5",
+      "url": "https://www.ipcc.ch/site/assets/uploads/2018/03/srccs_summaryforpolicymakers-1.pdf"
+    },
+    {
+      "name": "6",
+      "url": "https://www.globalccsinstitute.com/why-ccs/what-is-ccs/capture/"
+    },
+    {
+      "name": "7",
+      "url": "https://www.ipcc.ch/site/assets/uploads/2018/03/srccs_chapter7-1.pdf"
+    },
+    {
+      "name": "8",
+      "url": "https://www.globalccsinstitute.com/resources/global-status-report/"
+    },
+    {
+      "name": "9",
+      "url": "https://www.osti.gov/servlets/purl/1502552"
+    },
+    {
+      "name": "10",
+      "url": "https://www.globalccsinstitute.com/why-ccs/"
+    },
+    {
+      "name": "11",
+      "url": "https://carbonengineering.com/"
+    },
+    {
+      "name": "12",
+      "url": "https://www.ipcc.ch/site/assets/uploads/2018/03/srccs_chapter8-1.pdf"
+    },
+    {
+      "name": "13",
+      "url": "https://publications.parliament.uk/pa/cm201719/cmselect/cmbeis/1094/1094.pdf"
+    },
+    {
+      "name": "14",
+      "url": "https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/sustainability/cost%20curve%20pdfs/pathways_lowcarbon_economy_version2.ashx"
+    },
+    {
+      "name": "15",
+      "url": "https://www.drax.com/press_release/energy-companies-announce-new-zero-carbon-uk-partnership-ccus-hydrogen-beccs-humber-equinor-national-grid/"
+    },
+    {
+      "name": "16",
+      "url": "https://scied.ucar.edu/longcontent/carbon-capture-and-storage"
+    },
+    {
+      "name": "17",
+      "url": "https://www.eia.gov/outlooks/archive/aeo18/pdf/electricity_generation.pdf"
+    },
+    {
+      "name": "18",
+      "url": "https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf"
+    },
+    {
+      "name": "19",
+      "url": "http://www.jmcampbell.com/tip-of-the-month/2012/08/transportation-of-natural-gas-in-dense-phase/"
+    }
+  ],
+  "modules": [
+    {
+      "moduleType": "paragraph",
+      "content": "Engineers have worked out how to capture CO2 released from burning fossil fuels, preventing it from entering the air [5]. This process is called Carbon Capture and Storage (CCS) [5]."
+    },
+    {
+      "moduleType": "image",
+      "content": "IMG-0821.png"
+    },
+    {
+      "moduleType": "title",
+      "content": "How does CCS work?"
+    },
+    {
+      "moduleType": "paragraph",
+      "content": "CCS can be done in lots of different ways [5]. The most common method used to extract CO2 from exhaust gas is \"absorption\" [3]. A special liquid called a solvent is used to absorb (take up) the CO2, but not the rest of the exhaust gas [4]. The CO2 is then extracted from the solvent, and the solvent is re-used [3]. Here's the step-by-step process:"
+    },
+    {
+      "moduleType": "image",
+      "content": "IMG-0822.png"
+    },
+    {
+      "moduleType": "paragraph",
+      "content": "Usually, the captured CO2 is put under high pressure, forcing it to turn into a \"dense fluid\" [3], which flows like a gas, but has a density closer to a liquid, and so is denser than a gas [19]. To store the CO2, we need to transport it to the desired location, which is can be done using pipes or by boat [5]"
+    },
+    {
+      "moduleId": "C7_5-Det1-5-Q0",
+      "moduleType": "checkboxChallenge",
+      "question": "Where do you think CO2 is stored?",
+      "options": [
+        "Old oil fields",
+        "Volcanoes",
+        "Natural rock formations"
+      ],
+      "correctAnswers": [
+        "Natural rock formations",
+        "Old oil fields"
+      ]
+    },
+    {
+      "moduleType": "paragraph",
+      "content": "Alternatively, the CO2 can be used as a resource to make new products, such as cement and carbonated drinks [15]. With some simple chemistry, we can even make fuel from the CO2, by combining it with water and energy [11]; this is not yet commercially available [7], but progress is being made [11]. Learn more about this in the next chapter."
+    },
+    {
+      "moduleType": "bulletpoints",
+      "content": [
+        "Thing 1",
+        "Long thing 2 with lots of characters to test two lines",
+        "Thing 3"
+      ]
+    },
+    {
+      "moduleType": "graph",
+      "x": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+      ],
+      "y": [
+        1,
+        1,
+        2,
+        4,
+        7,
+        8,
+        5,
+        4,
+        2,
+        2,
+        4,
+        4,
+        5,
+        -6,
+        2
+      ],
+      "y-axis": "This is a very long Y-axis title to test code",
+      "x-axis": "This is a very long X-axis title to test code",
+      "x-axis-type": "int"
+    },
+    {
+      "moduleType": "image",
+      "content": "IMG-0823.png"
+    },
+    {
+      "moduleType": "title",
+      "content": "Is CCS being used?"
+    },
+    {
+      "moduleType": "paragraph",
+      "content": "CCS is not yet done on a large scale: in 2018 there were 18 commercial CCS plants globally, which together captured 40 million tons of CO2 that year [8]."
+    },
+    {
+      "moduleId": "C7_5-Det1-5-Q1",
+      "moduleType": "radiobuttonChallenge",
+      "question": "40 million tons of CO2 sounds like a fair bit. But what proportion of current global yearly emissions is that?",
+      "options": [
+        "0.1%",
+        "1%",
+        "5%"
+      ],
+      "correctAnswer": "0.1%"
+    },
+    {
+      "moduleType": "title",
+      "content": "Is CCS useful?"
+    },
+    {
+      "moduleType": "paragraph",
+      "content": "There are some sources of CO2 emissions that cannot currently be avoided, such as industrial production of iron, steel, chemicals, and cement [14]. CCS can be used to capture CO2 directly from these \"point sources\" [3, 14]."
+    },
+    {
+      "moduleType": "paragraph",
+      "content": "Could CCS allow us to continue using fossil fuels, and still bring emissions down? It's estimated that implementing CCS across power and industry could remove 3.3-4.1 billion tons of CO2e each year by 2030 [14]. That's only about 10% of global emissions in 2018 [9]! Well, seems like CCS is far from being a solution on its own."
+    },
+    {
+      "moduleType": "title",
+      "content": "Price of CCS?"
+    },
+    {
+      "moduleType": "paragraph",
+      "content": "At the moment it costs US$33-57 to capture 1 ton of CO2 from a natural gas power plant [12]. The price is expected to drop by 20-30% if existing technologies are improved, whilst other methods that are in earlier stages of development could cause bigger price drops in the future [12]."
+    },
+    {
+      "moduleId": "C7_5-Det1-5-Q2",
+      "moduleType": "radiobuttonChallenge",
+      "question": "What's cheaper per unit of energy?",
+      "options": [
+        "Gas+CCS",
+        "Onshore wind"
+      ],
+      "correctAnswer": "Onshore wind"
+    },
+    {
+      "moduleId": "C7_5-Det1-5-Q3",
+      "moduleType": "radiobuttonChallenge",
+      "question": "What's cheaper per unit of energy?",
+      "options": [
+        "Gas",
+        "Onshore wind"
+      ],
+      "correctAnswer": "Gas"
+    },
+    {
+      "moduleType": "paragraph",
+      "content": "Below is a graph showing the predicted cost of electricity for different power sources in the USA in 2023 [18]."
+    },
+    {
+      "moduleType": "barchart",
+      "y-axis": "Projected US$/MWh in USA 2023",
+      "content": [
+        {
+          "name": "Coal+CCS",
+          "value": 97
+        },
+        {
+          "name": "Gas+CCS",
+          "value": 67
+        },
+        {
+          "name": "Gas",
+          "value": 41
+        },
+        {
+          "name": "Nuclear",
+          "value": 77
+        },
+        {
+          "name": "Onshore Wind",
+          "value": 56
+        },
+        {
+          "name": "Solar PV",
+          "value": 60
+        },
+        {
+          "name": "Hydro",
+          "value": 38
+        }
+      ]
+    },
+    {
+      "moduleType": "paragraph",
+      "content": "As we can see in the plot above, onshore wind, solar PV, and hydro energy are cheaper than Gas+CCS [18]. However, there is no obvious alternative to CCS for decarbonising industrial processes like steel and cement production [3]. Therefore, it might be more useful for these applications."
+    }
+  ]
+}
