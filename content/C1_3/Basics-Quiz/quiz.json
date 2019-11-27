@@ -1,5 +1,7 @@
 {
   "refs": [],
+  "assets": {},
+
   "modules": [
     {
       "moduleType": "choiceQuiz",
