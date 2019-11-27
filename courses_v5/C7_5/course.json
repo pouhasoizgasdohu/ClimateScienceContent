@@ -229,9 +229,9 @@
               -6,
               2
             ],
-            "y-axis" : "This is a very long Y-axis title to test code",
-            "x-axis" : "This is a very long X-axis title to test code",
-            "x-axis-type" : "int"
+            "y-axis": "This is a very long Y-axis title to test code",
+            "x-axis": "This is a very long X-axis title to test code",
+            "x-axis-type": "int"
           },
           {
             "moduleType": "image",

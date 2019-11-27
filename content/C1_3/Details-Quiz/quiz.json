@@ -1,9 +1,6 @@
 {
   "refs": [],
   "assets": {},
-
-  "assets": {}
-
   "modules": [
     {
       "moduleType": "choiceQuiz",
