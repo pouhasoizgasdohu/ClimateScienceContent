@@ -114,7 +114,7 @@
       "content": "Usually, the captured CO2 is put under high pressure, forcing it to turn into a \"dense fluid\" [3], which flows like a gas, but has a density closer to a liquid, and so is denser than a gas [19]. To store the CO2, we need to transport it to the desired location, which is can be done using pipes or by boat [5]"
     },
     {
-      "moduleId": "C7_5-Det1-5-Q0",
+      "moduleId": "C1_3-Details-5-Q0",
       "moduleType": "checkboxChallenge",
       "question": "Where do you think CO2 is stored?",
       "options": [
@@ -192,7 +192,7 @@
       "content": "CCS is not yet done on a large scale: in 2018 there were 18 commercial CCS plants globally, which together captured 40 million tons of CO2 that year [8]."
     },
     {
-      "moduleId": "C7_5-Det1-5-Q1",
+      "moduleId": "C1_3-Details-5-Q1",
       "moduleType": "radiobuttonChallenge",
       "question": "40 million tons of CO2 sounds like a fair bit. But what proportion of current global yearly emissions is that?",
       "options": [
@@ -223,7 +223,7 @@
       "content": "At the moment it costs US$33-57 to capture 1 ton of CO2 from a natural gas power plant [12]. The price is expected to drop by 20-30% if existing technologies are improved, whilst other methods that are in earlier stages of development could cause bigger price drops in the future [12]."
     },
     {
-      "moduleId": "C7_5-Det1-5-Q2",
+      "moduleId": "C1_3-Details-5-Q2",
       "moduleType": "radiobuttonChallenge",
       "question": "What's cheaper per unit of energy?",
       "options": [
@@ -233,7 +233,7 @@
       "correctAnswer": "Onshore wind"
     },
     {
-      "moduleId": "C7_5-Det1-5-Q3",
+      "moduleId": "C1_3-Details-5-Q3",
       "moduleType": "radiobuttonChallenge",
       "question": "What's cheaper per unit of energy?",
       "options": [
