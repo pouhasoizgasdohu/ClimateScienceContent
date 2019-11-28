@@ -1,6 +1,34 @@
 {
   "refs": [],
-  "assets": {},
+  "assets": {
+    "quiz0_category0.jpg": {
+      "updated": "26.11.2019 22:27 UK"
+    },
+    "quiz0_category1.jpg": {
+      "updated": "26.11.2019 22:27 UK"
+    },
+    "quiz0_category2.jpg": {
+      "updated": "26.11.2019 22:27 UK"
+    },
+    "quiz0_category3.jpg": {
+      "updated": "26.11.2019 22:27 UK"
+    },
+    "quiz0_option0.jpg": {
+      "updated": "26.11.2019 22:27 UK"
+    },
+    "quiz0_option1.jpg": {
+      "updated": "26.11.2019 22:27 UK"
+    },
+    "quiz0_option2.jpg": {
+      "updated": "26.11.2019 22:27 UK"
+    },
+    "quiz0_option3.jpg": {
+      "updated": "26.11.2019 22:27 UK"
+    },
+    "kangaroo.png": {
+      "updated": "26.11.2019 22:27 UK"
+    }
+  },
   "modules": [
     {
       "moduleType": "choiceQuiz",
